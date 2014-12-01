@@ -1,0 +1,9 @@
+{
+    "name": "todo-list",
+    "dependencies": {
+        "jquery": "*",
+        "angular": "*",
+        "bootstrap": "*",
+        "requirejs": "*"
+    }
+}
